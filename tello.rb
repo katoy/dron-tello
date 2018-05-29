@@ -19,7 +19,7 @@ class Tello
   end
 
   def close
-    puts '# close Telo'
+    puts '# close Tello'
     @udps.send('land', 0, @sockaddr)
     Thread.kill(@th)
     @udps.close

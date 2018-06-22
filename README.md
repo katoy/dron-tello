@@ -11,3 +11,7 @@ https://dl-cdn.ryzerobotics.com/downloads/tello/20180222/Tello3.py
 web ではこんなものも見つけた。  
 - https://github.com/microlinux/tello  
   A Python interface for the Ryze Tello drone.
+
+- https://github.com/hanyazou/TelloPy  
+  DJI Tello drone controller python package  
+  video stream も取得できる。

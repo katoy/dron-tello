@@ -15,3 +15,6 @@ web ではこんなものも見つけた。
 - https://github.com/hanyazou/TelloPy  
   DJI Tello drone controller python package  
   video stream も取得できる。
+
+- https://qiita.com/mozzio369/items/8e0fb12dc30c493f5cc4  
+  トイドローン Tello をMacで操作＆カメラ映像をOpenCVで受信してみる
